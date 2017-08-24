@@ -6,7 +6,7 @@ import java.io.UnsupportedEncodingException;
 public class JiaMiTest2 {
 	public static void main(String[] args) throws UnsupportedEncodingException {
 		
-		String ss = "50.48.-95.-94.97.112.112.108.101.32.73.68";
+		String ss = "52.64.-97.-94.78.69";
 		String [] strArr = ss.split("\\.");
 		byte [] bb = new byte[strArr.length];
 		for(int i=0;i<strArr.length;i++){

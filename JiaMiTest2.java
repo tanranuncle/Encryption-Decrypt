@@ -3,6 +3,7 @@ package test_for_test;
 import java.io.UnsupportedEncodingException;
 //测试中文字符的
 //字节数组和字符串的相互转换
+//注意String的构造方法中要指定编码方式
 public class JiaMiTest2 {
 	public static void main(String[] args) throws UnsupportedEncodingException {
 		

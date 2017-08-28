@@ -17,7 +17,7 @@ public class JiaMi {
 		
 	}
 	public static void jiami() throws FileNotFoundException{
-		//这里的路径是待加密的源文件
+		//这里的路径是待加密的源文件，请选择自己待加密的文件路径
 		Scanner sc = new Scanner(new FileInputStream("D:\\jiami.txt"));
 		String s = null;
 		int a = 0;
